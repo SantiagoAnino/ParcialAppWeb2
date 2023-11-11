@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nombre": "Harina"
+  },
+  {
+    "id": 2,
+    "nombre": "Azúcar"
+  },
+  {
+    "id": 3,
+    "nombre": "Sal"
+  },
+  {
+    "id": 4,
+    "nombre": "Chocolate"
+  },
+  {
+    "id": 5,
+    "nombre": "Levadura"
+  },
+  {
+    "id": 6,
+    "nombre": "Mantequilla"
+  },
+  {
+    "id": 7,
+    "nombre": "Huevos"
+  },
+  {
+    "id": 8,
+    "nombre": "Vainilla"
+  },
+  {
+    "id": 9,
+    "nombre": "Canela"
+  },
+  {
+    "id": 10,
+    "nombre": "Avena"
+  },
+  {
+    "id": 11,
+    "nombre": "Nuez Moscada"
+  },
+  {
+    "id": 12,
+    "nombre": "Miel"
+  },
+  {
+    "id": 13,
+    "nombre": "Fresas"
+  },
+  {
+    "id": 14,
+    "nombre": "Arroz"
+  },
+  {
+    "id": 15,
+    "nombre": "Aceite"
+  },
+  {
+    "id": 16,
+    "nombre": "Pimienta"
+  },
+  {
+    "id": 17,
+    "nombre": "Cebolla"
+  },
+  {
+    "id": 18,
+    "nombre": "Ajo"
+  },
+  {
+    "id": 19,
+    "nombre": "Queso"
+  },
+  {
+    "id": 20,
+    "nombre": "Tomate"
+  },
+  {
+    "id": 21,
+    "nombre": "Albahaca"
+  }
+]

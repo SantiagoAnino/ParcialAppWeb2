@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "nombre": "Torta de Chocolate",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": 2
+      },
+      {
+        "id": 2,
+        "cantidad": 1
+      },
+      {
+        "id": 4,
+        "cantidad": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Galletas de Avena",
+    "ingredientes": [
+      {
+        "id": 10,
+        "cantidad": 1
+      },
+      {
+        "id": 2,
+        "cantidad": 0.5
+      },
+      {
+        "id": 6,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Arroz con Queso",
+    "ingredientes": [
+      {
+        "id": 14,
+        "cantidad": 1
+      },
+      {
+        "id": 19,
+        "cantidad": 2
+      },
+      {
+        "id": 17,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Salsa de Tomate",
+    "ingredientes": [
+      {
+        "id": 20,
+        "cantidad": 3
+      },
+      {
+        "id": 17,
+        "cantidad": 2
+      },
+      {
+        "id": 18,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Huevos Revueltos",
+    "ingredientes": [
+      {
+        "id": 7,
+        "cantidad": 2
+      },
+      {
+        "id": 18,
+        "cantidad": 1
+      },
+      {
+        "id": 16,
+        "cantidad": 0.5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Muffins de Vainilla",
+    "ingredientes": [
+      {
+        "id": 8,
+        "cantidad": 1
+      },
+      {
+        "id": 6,
+        "cantidad": 0.75
+      },
+      {
+        "id": 5,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Ensalada de Fresas",
+    "ingredientes": [
+      {
+        "id": 13,
+        "cantidad": 2
+      },
+      {
+        "id": 15,
+        "cantidad": 1
+      },
+      {
+        "id": 7,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Sopa de Ajo",
+    "ingredientes": [
+      {
+        "id": 18,
+        "cantidad": 2
+      },
+      {
+        "id": 15,
+        "cantidad": 0.5
+      },
+      {
+        "id": 5,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Pastel de Nuez Moscada",
+    "ingredientes": [
+      {
+        "id": 11,
+        "cantidad": 1
+      },
+      {
+        "id": 6,
+        "cantidad": 1.5
+      },
+      {
+        "id": 12,
+        "cantidad": 0.5
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Sopa de Tomate",
+    "ingredientes": [
+      {
+        "id": 20,
+        "cantidad": 2
+      },
+      {
+        "id": 17,
+        "cantidad": 1
+      },
+      {
+        "id": 18,
+        "cantidad": 1
+      }
+    ]
+  }]
